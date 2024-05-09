@@ -1,12 +1,12 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import KasaLocation from "./pages/KasaLocation.js";
-import Page404 from "./pages/Page404";
-import { DataDone } from "./components/DataContext";
-import Navigation from "./components/Navigation";
-import Footer from "./components/Footer";
+import Home from "./src/pages/Home.js";
+import About from "./src/pages/About.js";
+import KasaLocation from "./src/pages/KasaLocation.js";
+import Page404 from "./src/pages/Page404.js";
+import { DataDone } from "./src/components/DataContext.js";
+import Navigation from "./src/components/Navigation.js";
+import Footer from "./src/components/Footer.js";
 
 const App = () => {
   let basename = "/";
