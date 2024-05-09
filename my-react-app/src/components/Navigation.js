@@ -1,12 +1,12 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import logoKasa from "../assets/icon/logoKasa.png";
+
 
 const Navigation = () => {
   return (
     <div className="navigation">
       <div className="logo">
-        <img src={logoKasa} alt="logo de Kasa" />
+        <h1>Ruben Kraan</h1>
       </div>
       <nav>
         <ul>
@@ -14,14 +14,14 @@ const Navigation = () => {
             to="/"
             className={(nav) => (nav.isActive ? "nav-active" : null)}
           >
-            <li>Accueil</li>
+            <li>Projet</li>
           </NavLink>
 
           <NavLink
             to="/about"
             className={(nav) => (nav.isActive ? "nav-active" : null)}
           >
-            <li>A Propos</li>
+            <li>A Propos de moi</li>
           </NavLink>
         </ul>
       </nav>

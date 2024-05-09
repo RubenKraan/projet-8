@@ -6,11 +6,11 @@
 
 $font-1: "Montserrat", sans-serif;
 
-$color-1: #ff6060;
+$color-1: #200ee6;
 $color-Gradient: linear-gradient(
   360deg,
-  rgba(134, 52, 52, 1) 0%,
-  rgba(255, 98, 98, 1) 100%
+  rgb(43, 24, 218) 0%,
+  rgb(27, 34, 169) 100%
 );
 $color-3: #282c34;
 $white: #ffffff;
@@ -41,4 +41,7 @@ a,
 a:visited {
   color: $color-1;
   text-decoration: none;
+}
+h1{
+  color: $color-1;
 }

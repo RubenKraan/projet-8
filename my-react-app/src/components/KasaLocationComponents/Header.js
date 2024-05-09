@@ -1,5 +1,5 @@
 import React from "react";
-import Rating from "./Rating";
+
 
 const Header = ({ kasa }) => {
   return (
@@ -8,7 +8,7 @@ const Header = ({ kasa }) => {
         <h3>
           {kasa.title}
           <br />
-          <span className="location">{kasa.location}</span>
+          <span className="location"><a href = {kasa.location}>{kasa.nomprojet}</a></span>
         </h3>
 
         <span className="tagBtnContainer">
@@ -19,17 +19,6 @@ const Header = ({ kasa }) => {
             </span>
           ))}
         </span>
-      </div>
-      <div className="hostInfo">
-        <div className="hostDescription">
-          <span>
-            {kasa.host.name.split(" ")[0]}
-            <br />
-            {kasa.host.name.split(" ")[1]}
-          </span>
-          <img src={kasa.host.picture} alt={kasa.host.name} />
-        </div>
-        <Rating score={kasa.rating} />
       </div>
     </div>
   );

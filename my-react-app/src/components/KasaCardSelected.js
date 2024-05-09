@@ -9,8 +9,8 @@ const KasaCardSelected = ({ kasa }) => {
       <Carrousel images={kasa.pictures} />
       <Header kasa={kasa} />
       <div className="collapse-container">
-        <Collapse title="Description">{kasa.description}</Collapse>
-        <Collapse title="Équipements">
+        <Collapse title="Competence Aqui">{kasa.description}</Collapse>
+        <Collapse title="Technolgie">
           {kasa.equipments.map((equipment) => (
             <p key={equipment}>
               {equipment}

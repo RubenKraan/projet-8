@@ -7,28 +7,15 @@ const About = () => {
   return (
     <div>
       <Banner class="aboutBackground" />
-      <Collapse title="Fiabilité">
-        Les annonces postées sur Kasa garantissent une fiabilité totale. Les
-        photos sont conformes aux logements, et toutes les informations sont
-        régulièrement vérifiées par nos équipes.
+      <Collapse title="Competence">
+        <a href="https://miro.com/welcomeonboard/eTlUNWUxSk95bzhEZHZqWXhjeHV1eHpiaW9lcmxxN3NGQ0x2SzNWM1M4ZFkzbVhoSFBSRUgyNUxCYVVSelpWWHwzNDU4NzY0NTg4Mzk1NTc5NDk0fDI=?share_link_id=348496172313">Lien ver mon board the competences sur miro</a>
       </Collapse>
-      <Collapse title="Respect">
-        La bienveillance fait partie des valeurs fondatrices de Kasa. Tout
-        comportement discriminatoire ou de perturbation du voisinage entraînera
-        une exclusion de notre plateforme.
+      <Collapse title="CV">
+        <a href="https://cvdesignr.com/p/66276834acc31">Lien ver mon CV</a>
       </Collapse>
-      <Collapse title="Service">
-        Nos équipes se tiennent à votre disposition pour vous fournir une
-        expérience parfaite. N'hésitez pas à nous contacter si vous avez la
-        moindre question.
-      </Collapse>
-      <Collapse title="Sécurité">
-        La sécurité est la priorité de Kasa. Aussi bien pour nos hôtes que pour
-        les voyageurs, chaque logement correspond aux critères de sécurité
-        établis par nos services. En laissant une note aussi bien à l'hôte qu'au
-        locataire, cela permet à nos équipes de vérifier que les standards sont
-        bien respectés. Nous organisons également des ateliers sur la sécurité
-        domestique pour nos hôtes.
+      <Collapse title="Contact">
+      <a href="tel:+33608872759">Par telephone: +33 6 08 87 27 59</a><br></br>
+      <a href="mailto: ruben@kraan.fr">par mail: ruben@kraan.fr</a>
       </Collapse>
     </div>
   );
