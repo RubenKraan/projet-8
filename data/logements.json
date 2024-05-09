@@ -1,0 +1,125 @@
+[
+    {
+        "id": "c67ab8a7",
+        "title": "Bookie",
+        "cover": "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/portofolioimages/Schermafbeelding+2024-05-09+093904.png",
+        "pictures": [
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/portofolioimages/Schermafbeelding+2024-05-09+093904.png",
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/portofolioimages/Schermafbeelding+2024-05-09+094054.png",
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/portofolioimages/Schermafbeelding+2024-05-09+094122.png"
+        ],
+        "description": "Implémenter une interface responsive avec HTML et CSS. Intégrer du contenu conformément à une maquette avec HTML et CSS",
+        "nomprojet": "projet 2 github",
+        "location": "https://github.com/RubenKraan/Booki",
+        "equipments": [
+            "HTML",
+            "CSS",
+            "github"
+        ],
+        "tags": [
+            "HTML",
+            "CSS"
+        ]
+    },
+    {
+        "id": "b9123946",
+        "title": "Sopie Buel",
+        "cover": "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/3/Schermafbeelding+2024-05-09+204926.png",
+        "pictures": [
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/3/Schermafbeelding+2024-05-09+204752.png",
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/3/Schermafbeelding+2024-05-09+204822.png",
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/3/Schermafbeelding+2024-05-09+204904.png",
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/3/Schermafbeelding+2024-05-09+204926.png"
+            ],
+            "description": "Récupérer les données utilisateurs dans le JavaScript via des formulaires. Manipuler les éléments du DOM avec JavaScript. Gérer les événements utilisateurs avec JavaScript",
+            "nomprojet": "projet 3 github",
+            "location": "https://github.com/RubenKraan/projet3",
+            "equipments": [
+                "HTML",
+                "CSS",
+                "Github",
+                "Javascript"
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
+    },
+    {
+        "id": "46d188c5",
+        "title": "Nina Carducci",
+        "cover": "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/5/Schermafbeelding+2024-05-09+201123.png",
+        "pictures": [
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/5/Schermafbeelding+2024-05-09+201123.png",
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/5/Schermafbeelding+2024-05-09+201149.png",
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/5/Schermafbeelding+2024-05-09+201216.png",
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/5/Schermafbeelding+2024-05-09+201237.png"
+        ],
+        "description": "Optimiser les performances d’un site web. Débugger un site web grâce aux Chrome DevTools. Rédiger un cahier de recette pour tester un site",
+        "nomprojet": "projet 5 github",
+        "location": "https://github.com/RubenKraan/projet-5",
+        "equipments": [
+            "seo",
+            "Debug",
+            "Chrome DevTools",
+            "Rédiger un cahier de recette"
+        ],
+        "tags": [
+            "SEO",
+            "Debug"
+        ]
+    },
+    {
+        "id": "7af00cd6",
+        "title": "Kasa",
+        "cover": "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/portofolioimages/portofolioimages/Schermafbeelding+2024-05-09+182820.png",
+        "pictures": [
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/portofolioimages/portofolioimages/Schermafbeelding+2024-05-09+182820.png",
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/portofolioimages/portofolioimages/Schermafbeelding+2024-05-09+182924.png",
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/portofolioimages/portofolioimages/Schermafbeelding+2024-05-09+182950.png"
+        ],
+        "description": "Configurer la navigation entre les pages de l'application avec React Router. Initialiser une application avec Create React App. Développer des éléments de l'interface d'un site web grâce à des composants React",
+        "nomprojet": "projet 6 github",
+        "location": "https://github.com/RubenKraan/Projet-6",
+        
+        "equipments": [
+            "React",
+            "Sass",
+            "Github",
+            "Animations in css"
+        ],
+        "tags": [
+            "React",
+            "Sass"
+        ]
+    },
+    {
+        "id": "0979876d",
+        "title": "Mon Vieux Gremoire",
+        "cover": "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/7/Schermafbeelding+2024-05-09+212205.png",
+        "pictures": [
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/7/Schermafbeelding+2024-05-09+212122.png",
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/7/Schermafbeelding+2024-05-09+212205.png",
+            "https://s3.amazonaws.com/portofolio.ruben.kraan/protofolio.ruben/Schermafbeelding+2024-05-09+212228.png"
+        ],
+        "description": "Implémenter un modèle logique de données conformément à la réglementation. Implémenter un modèle logique de données conformément à la réglementation. Stocker des données de manière sécurisée.",
+        "location": "https://github.com/RubenKraan/P7-Dev-Web-livres-main--2-",
+        
+        "equipments": [
+            "React",
+            "Backend",
+            "node.js",
+            "api",
+            "mongoDB",
+            "Github"
+        ],
+        "tags": [
+            "Backend",
+            "node.js",
+            "api",
+            "mongoDB"
+
+        ]
+    }
+]
