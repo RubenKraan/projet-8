@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/RubenKraan/projet-8/my-react-app/static/css/main.e2b2f9ef.css",
-    "main.js": "/RubenKraan/projet-8/my-react-app/static/js/main.81c09555.js",
-    "static/media/aboutImg.jpg": "/RubenKraan/projet-8/my-react-app/static/media/aboutImg.0b346e47c384ff9df680.jpg",
-    "static/media/homeImg.jpg": "/RubenKraan/projet-8/my-react-app/static/media/homeImg.6eeee68e2fb1a13a21a8.jpg",
-    "index.html": "/RubenKraan/projet-8/my-react-app/index.html",
-    "static/media/chevron-down-solid.svg": "/RubenKraan/projet-8/my-react-app/static/media/chevron-down-solid.150eda201820d2ced46a703b88291bc2.svg",
-    "static/media/chevron-up-solid.svg": "/RubenKraan/projet-8/my-react-app/static/media/chevron-up-solid.2da87fba751bb5cc84497bba8489fd7c.svg",
-    "static/media/chevron-right-solid.svg": "/RubenKraan/projet-8/my-react-app/static/media/chevron-right-solid.224e07798ade6bda6e2572adcd9fc9c3.svg",
-    "static/media/chevron-left-solid.svg": "/RubenKraan/projet-8/my-react-app/static/media/chevron-left-solid.607671694dda9fcb5aac86d1cd56249b.svg",
-    "main.e2b2f9ef.css.map": "/RubenKraan/projet-8/my-react-app/static/css/main.e2b2f9ef.css.map",
-    "main.81c09555.js.map": "/RubenKraan/projet-8/my-react-app/static/js/main.81c09555.js.map"
+    "main.css": "/projet-8/static/css/main.c1969f81.css",
+    "main.js": "/projet-8/static/js/main.3837fe15.js",
+    "static/media/aboutImg.jpg": "/projet-8/static/media/aboutImg.0b346e47c384ff9df680.jpg",
+    "static/media/homeImg.jpg": "/projet-8/static/media/homeImg.6eeee68e2fb1a13a21a8.jpg",
+    "index.html": "/projet-8/index.html",
+    "static/media/chevron-down-solid.svg": "/projet-8/static/media/chevron-down-solid.150eda201820d2ced46a703b88291bc2.svg",
+    "static/media/chevron-up-solid.svg": "/projet-8/static/media/chevron-up-solid.2da87fba751bb5cc84497bba8489fd7c.svg",
+    "static/media/chevron-right-solid.svg": "/projet-8/static/media/chevron-right-solid.224e07798ade6bda6e2572adcd9fc9c3.svg",
+    "static/media/chevron-left-solid.svg": "/projet-8/static/media/chevron-left-solid.607671694dda9fcb5aac86d1cd56249b.svg",
+    "main.c1969f81.css.map": "/projet-8/static/css/main.c1969f81.css.map",
+    "main.3837fe15.js.map": "/projet-8/static/js/main.3837fe15.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2b2f9ef.css",
-    "static/js/main.81c09555.js"
+    "static/css/main.c1969f81.css",
+    "static/js/main.3837fe15.js"
   ]
 }
