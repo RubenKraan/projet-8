@@ -12,8 +12,6 @@ const App = () => {
   let basename = "/";
   
   if (window.location.hostname ==="http://localhost:3001/") {//change apres deploiment sur github
-  } else{
-
   }
   return (
     <BrowserRouter basename={basename}>
