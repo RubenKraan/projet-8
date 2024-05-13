@@ -6,7 +6,7 @@ const Home = () => {
   //const currentPage = "/";
   return (
     <div>
-      <Banner title="Portofolio Ruben Kraan" class="homeBackground" />
+      <Banner title="Portofolio Ruben Kraan, Frontend" class="homeBackground" />
       <KasaCards />
     </div>
   );

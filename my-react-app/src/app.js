@@ -10,7 +10,10 @@ import Footer from "./components/Footer";
 
 const App = () => {
   let basename = "/";
+  
   if (window.location.hostname ==="http://localhost:3001/") {//change apres deploiment sur github
+  } else{
+
   }
   return (
     <BrowserRouter basename={basename}>
@@ -20,6 +23,7 @@ const App = () => {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/location/:id" element={<KasaLocation />} />
+          <Route path="/projet-8" element={<Home />} />
           <Route path="*" element={<Page404 />} />
         </Routes>
         <Footer />

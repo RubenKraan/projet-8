@@ -9,9 +9,9 @@
 
   .carrousselImg {
     border-radius: 20px;
-    width: 100%;
+    width: auto;
     height: 45vh;
-    background: center/cover;
+    background: fill;
     object-fit: cover;
     @media screen and (max-width: 1000px) {
       height: 30vh;

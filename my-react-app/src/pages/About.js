@@ -1,6 +1,8 @@
 import React from "react";
 import Banner from "../components/Banner";
 import Collapse from "../components/Collapse";
+import Tally from "../components/KasaLocationComponents/tally";
+
 
 const About = () => {
   //const currentPage = "/about";
@@ -14,9 +16,9 @@ const About = () => {
         <a href="https://cvdesignr.com/p/66276834acc31">Lien ver mon CV</a>
       </Collapse>
       <Collapse title="Contact">
-      <a href="tel:+33608872759">Par telephone: +33 6 08 87 27 59</a><br></br>
-      <a href="mailto: ruben@kraan.fr">par mail: ruben@kraan.fr</a>
+    <Tally />
       </Collapse>
+      
     </div>
   );
 };
