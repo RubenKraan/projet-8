@@ -6,6 +6,8 @@
 
   "private": true,
 
+  "homepage": "https://github.com/RubenKraan/projet-8/my-react-app/",
+
   "dependencies": {
 
     "@testing-library/jest-dom": "^5.16.5",
