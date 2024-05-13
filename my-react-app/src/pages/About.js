@@ -1,5 +1,5 @@
 import React from "react";
-import Banner from "../components/Banner";
+
 import Collapse from "../components/Collapse";
 import Tally from "../components/KasaLocationComponents/tally";
 
